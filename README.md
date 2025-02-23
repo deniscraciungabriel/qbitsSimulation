@@ -20,7 +20,7 @@ A fun and interactive visual simulation of a quantum computer built using Python
 
 1. **Clone the repo**:
    ```bash
-   git clone [https://github.com/deniscraciungabriel/qbitsSimulation.git]
+   git clone https://github.com/deniscraciungabriel/qbitsSimulation.git
    cd qbitsSimulation
    ```
 
