@@ -20,8 +20,8 @@ A fun and interactive visual simulation of a quantum computer built using Python
 
 1. **Clone the repo**:
    ```bash
-   git clone https://github.com/your-username/quantum-simulator-pygame.git
-   cd quantum-simulator-pygame
+   git clone [https://github.com/deniscraciungabriel/qbitsSimulation.git]
+   cd qbitsSimulation
    ```
 
 2. **Install dependencies**:
@@ -32,7 +32,7 @@ A fun and interactive visual simulation of a quantum computer built using Python
 
 3. **Run the simulator**:
    ```bash
-   python quantum_simulator.py
+   python main.py
    ```
 
 ---
